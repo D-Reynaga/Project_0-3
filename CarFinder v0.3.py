@@ -7,6 +7,7 @@ def display_menu():
     print("2. SEARCH for Authorized Vehicle")
     print("3. ADD Authorized Vehicle")
     print("4. Exit")
+    print("********************************")
 
 def print_authorized_vehicles(allowed_vehicles_list):
     print("The AutoCountry sales manager has authorized the purchase and selling of the following vehicles:")
